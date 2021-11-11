@@ -14,7 +14,12 @@ public class Class01 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println ( "Hola Mundo 1" );
+		System.out.println ( "Hola Mundo 1" );
+		System.out.println ( "Hola Mundo 2" );
+		System.out.println ( "Hola Mundo 3" );
+		System.out.println ( "Hola Mundo 4" );
+		System.out.println ( "Hola Mundo 5" );
+		System.out.println ( "Hola Mundo 6" );
     }
     
 }
